@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ITTHIPHON+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+Node.js+%7C+React" alt="Typing SVG" />
 
 <br/>
 
-<!-- One-liner -->
 <p>
   Recently graduated Full Stack Developer <strong>(First Class Honours, IT)</strong> with hands-on experience<br/>
   delivering two production-grade systems — one deployed & in active use, one used daily as an internal tool.
@@ -24,45 +22,17 @@
 - 🎓 &nbsp;Bachelor's in Information Technology — **First Class Honours**
 - 💼 &nbsp;Built **2 production systems** during internship (1 client-deployed, 1 internal tool)
 - 🛠️ &nbsp;Full Stack: mobile, web, and backend
-- 🌱 &nbsp;Always learning — currently exploring system design & clean architecture
 - 📍 &nbsp;Based in Thailand
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,dart,php,html,css,react,flutter,nodejs,express,mysql,sqlserver,github,postman,trello,figma&perline=15)](https://skillicons.dev)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=88CE02)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-000000?style=flat-square&logo=fastapi&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-000000?style=flat-square&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+</div>
 
 ---
 
