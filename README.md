@@ -22,6 +22,7 @@
 - 🎓 &nbsp;Bachelor's in Information Technology — **First Class Honours**
 - 💼 &nbsp;Built **2 production systems** during internship (1 client-deployed, 1 internal tool)
 - 🛠️ &nbsp;Full Stack: mobile, web, and backend
+- 🌱 &nbsp;Always learning — currently exploring system design & clean architecture
 - 📍 &nbsp;Based in Thailand
 
 ---
@@ -30,7 +31,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,dart,php,html,css,react,flutter,nodejs,express,mysql,sqlserver,github,postman,trello,figma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,dart,php,html,css,react,flutter,nodejs,express,mysql,github,postman,figma&perline=13)](https://skillicons.dev)
 
 </div>
 
