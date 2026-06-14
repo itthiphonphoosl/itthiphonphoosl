@@ -22,7 +22,6 @@
 - 🎓 &nbsp;Bachelor's in Information Technology — **First Class Honours**
 - 💼 &nbsp;Built **2 production systems** during internship (1 client-deployed, 1 internal tool)
 - 🛠️ &nbsp;Full Stack: mobile, web, and backend
-- 🌱 &nbsp;Always learning — currently exploring system design & clean architecture
 - 📍 &nbsp;Based in Thailand
 
 ---
