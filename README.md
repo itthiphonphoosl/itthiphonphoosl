@@ -22,7 +22,6 @@
 - 🎓 &nbsp;Bachelor's in Information Technology — **First Class Honours**
 - 💼 &nbsp;Built **2 production systems** during internship (1 client-deployed, 1 internal tool)
 - 🛠️ &nbsp;Full Stack: mobile, web, and backend
-- 🌱 &nbsp;Always learning — currently exploring system design & clean architecture
 - 📍 &nbsp;Based in Thailand
 
 ---
@@ -41,7 +40,7 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itthiphonphoosl&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itthiphonphoosl&layout=donut&theme=graywhite&hide_border=true&langs_count=8" />
 
 </div>
 
