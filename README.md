@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ITTHIPHON+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+Node.js+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ITTHIPHON+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+Node.js+%7C+React" alt="Typing SVG" />
 
 <br/>
 
@@ -9,9 +9,9 @@
   delivering two production-grade systems — one deployed & in active use, one used daily as an internal tool.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itthiphon.phoosl@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=7AA2F7)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=BB9AF7)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9ECE6A)](mailto:itthiphon.phoosl@gmail.com)
 
 ---
 
@@ -40,7 +40,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-drab-12.vercel.app/api/top-langs/?username=itthiphonphoosl&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats-one-drab-12.vercel.app/api/top-langs/?username=itthiphonphoosl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itthiphonphoosl/itthiphonphoosl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itthiphonphoosl/itthiphonphoosl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itthiphonphoosl/itthiphonphoosl/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -60,6 +74,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=itthiphonphoosl&style=flat-square&color=000000&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=itthiphonphoosl&style=flat-square&color=1a1b27&label=Profile+Views)
 
 </div>
