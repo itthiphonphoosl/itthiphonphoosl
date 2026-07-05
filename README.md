@@ -35,12 +35,11 @@
 </div>
 
 ---
-
 ## 📊 My Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itthiphonphoosl&layout=donut&theme=graywhite&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itthiphonphoosl&theme=graywhite&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
 
 </div>
 
