@@ -10,8 +10,7 @@
 </p>
 
 [![Resume](https://img.shields.io/badge/Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=7AA2F7)](https://drive.google.com/file/d/1ldtylj7gZxZcB3EYBcn8NyF389l_vgLk/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9ECE6A)](mailto:itthiphon.phoosl@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9ECE6A)](https://mail.google.com/mail/?view=cm&fm=1&to=itthiphon.phoosl@gmail.com)
 ---
 
 </div>
