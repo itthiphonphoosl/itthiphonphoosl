@@ -64,11 +64,11 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**PROMOS**](https://github.com/itthiphonphoosl/PROMOS-App) | Production Monitoring System — Flutter app + Node.js/Express API with role-based access, deployed and in active use by a client | Flutter · Node.js · Express · MySQL |
-| [**ScanPro**](https://github.com/itthiphonphoosl/WMS_ScanPro) | Warehouse Management mobile app for real-time inventory & order tracking with barcode scanning | Flutter |
-| [**I'm Slush**](https://github.com/itthiphonphoosl/Imsluchapp) | Restaurant ordering web app with QR Code table ordering and Kanban admin dashboard | React · Vite · GSAP |
-| [**Pet4Clinic**](https://github.com/itthiphonphoosl/Pet4Clinic) | Veterinary clinic management system with role-based scheduling and treatment records | PHP · MySQL · JS |
-| [**F1rstCloches**](https://github.com/itthiphonphoosl/F1rstCloches) | E-commerce fashion platform with customer marketplace and admin backoffice | PHP · MySQL · REST API |
+| [**PROMOS**](https://github.com/itthiphonphoosl/PROMOSystem-Project) | Production monitoring system covering 7 production-line stations — Flutter app + Node.js/Express REST API with role-based access and automatic barcode label printing; deployed on-site and used daily by a client | Flutter · Node.js · Express · MySQL |
+| [**ScanPro**](https://github.com/itthiphonphoosl/WMS_ScanPro) | Warehouse management mobile app (Flutter frontend) — sale orders, picking lists, and serial/location scanning with physical barcode scanner hardware; used daily as an internal tool | Flutter |
+| [**Im Slush**](https://github.com/itthiphonphoosl/Imsluchapp) | Restaurant ordering web app with separate Customer, Staff, and Admin views — menu & cart ordering, table and order management, GSAP page transitions | React · Vite · GSAP |
+| [**Pet4Clinic**](https://github.com/itthiphonphoosl/Pet4Clinic) | Veterinary clinic management system — appointments, treatment and drug records, 3 user roles (Admin / Veterinary / Staff), automated email notifications | PHP · MySQL · JS |
+| [**F1rstCloches**](https://github.com/itthiphonphoosl/F1rstCloches) | E-commerce fashion store with customer storefront and admin backoffice for products, orders, and stock | PHP · MySQL · REST API |
 
 ---
 
